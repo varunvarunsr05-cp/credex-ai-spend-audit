@@ -1,14 +1,11 @@
 ## Day 1 — 2026-05-07
-Hours worked: 1
 
-What I did:
-Read the full assignment PDF carefully and understood all required MVP features, documentation files, and evaluation criteria.
+**Hours worked:** 1
 
-What I learned:
-This assignment focuses on building a real product with proper documentation, consistency, and deployment — not only coding.
+**What I did:** Read the assignment PDF carefully, understood project requirements, deliverables, and evaluation criteria. Set up initial project structure and repository.
 
-Blockers / what I'm stuck on:
-Had internal tests today, so could not start development work yet.
+**What I learned:** This assignment focuses on building a real product with consistent progress, documentation, and entrepreneurial thinking.
 
-Plan for tomorrow:
-Decide tech stack, initialize project, and start building the frontend.
+**Blockers / what I'm stuck on:** Had internal tests today, so could not start development work yet.
+
+**Plan for tomorrow:** Decide tech stack, initialize project, and start building the frontend.
